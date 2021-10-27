@@ -45,7 +45,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ````bash 
  # Clone este repositório
  # Acesse a pasta do projeto no terminal, a partir do diretório ao qual o comando de clonagem foi executado
- cd hook-carrinho-compras
+ cd desafio2react
  
  # Instale as dependências
  $ yarn install ou
